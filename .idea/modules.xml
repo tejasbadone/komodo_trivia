@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/komodo_trivia.iml" filepath="$PROJECT_DIR$/komodo_trivia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/komodo_trivia_android.iml" filepath="$PROJECT_DIR$/android/komodo_trivia_android.iml" />
+    </modules>
+  </component>
+</project>
