@@ -70,12 +70,18 @@ Delve into the details with score tracking and comprehensive quiz insights. Enjo
     ```bash
     flutter pub get
     ```
-
-
+    
 - Run project
     ```bash
      flutter run
     ```
+    
+- To build the app apk
+    ```bash
+     flutter build apk
+    ```
+
+    
 ## Download
 
 Download apk - https://drive.google.com/file/d/1_wZyYTI9to_9u6qyhAReSqjtnrRp2did/view?usp=sharing
